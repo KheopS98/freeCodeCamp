@@ -1,1 +1,93 @@
+*****HTML Notes From Every Chapter*****
+
+**Most HTML Elements have an 'opening tag' and a 'closing tag' it looks like this <element>Content</element>
+
+**HTML Headings from <h1> to <h6> --> <h1> is the most important heading , <h2> - used for subheadings h3-h6 different levels of subheadings
+
+**<p>Content</p> - paragraphs are most used for TEXT
+**If you want a placeholder for text just use an "lorem" -->some random content just for testing
+
+**Comments starts with <!-- and ends  wiht --> ex: <!-- --> comments are ignored.
+
+**HTML5 introduce new semnatic tags like: <main> <header> <nav> <article> <section>
+
+** <main> is usefull for SEO(serch engines) to find the main content of the page
+  *Example: 
+  <main>
+  <p>Content</p>
+  <p>Content</p?
+  </main>
+  
+**HTML Images can be inserted with <img> tag
+  **Syntax: <img src="source.jpg" alt="alternative text">
+  *<img> is an empty tag
+  *src - atribute specify the source of img
+  *alt - atribute specify an alternative text if image is not louded.
+  
+**HTML Links(aka Anchor):
+  **Syntax: <a href="https://example.com">Visible Content of Link</a>
+  *href - atribute specify web address destination
+  
+  **Links are often usef for internal links in our page
+  **we assign a href atribute to an ID
+  *Example
+  <footer id="bottom">CopyRight My App</footer>
+  <a href="#bottom" target="_self">Jump to Bottom</a>
+  
+  **We can nest links to other elements example:
+  *<p>View more <a href="https://catphotos.com">cat photos</a>.</p>
+  *In this example we nested an link to a paragraph <p>View more ... .</p>
+    *where  ... is the anchor tag <a href="https://catphotos.com">cat photos</a>
+    
+  **We can make a 'dead link' with # simbol ex: <a href="#">Dead Link</a>
+  
+  **We can make an image as a links example:
+  *<a href="#">
+    <img src="example.jpeg" alt="alternative">
+   </a>
+  
+**HTML Lists(<ul> , <ol>)
+
+  **Unordoned List
+  **<ul> --> bulleted list,type can pe changed with style="list-style-type:disc,square etc"
+  **<ul>
+      <li>Item1</li> --> <li> (list item)
+      <li>Item2</li>
+      <li>Item3</li>
+    </ul>
+    
+  **Ordoned List
+  **<ol type="1,a,A,i,I" start=1> type- atribute specify type of ol ; start - start count from X
+      <li>Item1</li> --><li> - list item
+      <li>Item2</li>
+      <li>Item3</li>
+    </ol>
+  
+**Create a text field
+  **<input type="text"> --> <input> self closed
+  **Placeholder for <input>
+    *Placeholder text is what is displayed in your input element before your user has inputted anything.
+    *<input type="text" placeholder="placeholder text"> - placeholder will desapier when user will tipe something.
+    
+**Crate a form element
+  **You can build web forms that actually submit data to a server.
+  **<form action="/url-where-you-want-to-submit-form-data"></form>
+  **Syntax <form action="process.php" method="get/post"> </form>
+
+**Add a submit button to form
+  **Clicking this button will send the data from your form to the URL you specified with your form's action attribute.
+  **<button type="submit">Submit</button>
+
+** Require a Field
+  **You can require specific form fields so that your user will not be able to submit your form until he or she has filled them out.
+  **<input type="text" placeholder="cat photo URL" required>
+
+**
+  
+
+
+
+
+
+
 
