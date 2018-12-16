@@ -57,20 +57,21 @@
     </pre>
     <br><hr>
     
-    <pre>
-   HTML Atributes
-        Atributes: contain extra information about the element.
+    
+   <pre>
+   HTML Atributes contain extra information about the element.
         Atributes should have:
-          -A space between it and the element.
-          -The atribute name followed by an equal sign.
-          -An atribute value between " "  
+        A space between it and the element.
+        The atribute name followed by an equal sign.
+        An atribute value between " "  
    </pre>
+   
    <br><hr>
    
    <pre>
    Adding atributes to an element
          Lets take the &lt;a&gt; element witch means "anchor"
-         lt;a href=" " title=" " target=" "&gt;
+         <code> <a href="" target=" " title="">Content</a></code>
         *href - specify the web adress what we want to link
         *title - can be used as a tooltip
         *target - specify where is this link open(on a new tab? or self tab?)
