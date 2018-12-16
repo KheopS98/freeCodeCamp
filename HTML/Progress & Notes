@@ -79,6 +79,26 @@
   **<form action="/url-where-you-want-to-submit-form-data"></form>
   **Syntax <form action="process.php" method="get/post"> </form>
 
+**Form types of inputs
+<form  action="process.php" method="post"></form>
+   **action - url to send data to
+   **method - post / get
+   **get - when we recive data(geting innformation) like when we searching
+   **post- sending data to pe added to a database (posted to a server)
+      
+<input type=""> 
+   **type="text" -simple text
+   **type="checkbox" - check box
+   **type="color" - pick a color
+   **type="date" - pick  a date
+   **type="email" - useful for  email  validation
+   **type="file" - chose a file
+   **type="number" - take a number
+   **type="password" - put *****
+   **type="radio" - radio button
+   **type="submit" - submit button
+   **type="button" - simple button
+
 **Add a submit button to form
   **Clicking this button will send the data from your form to the URL you specified with your form's action attribute.
   **<button type="submit">Submit</button>
