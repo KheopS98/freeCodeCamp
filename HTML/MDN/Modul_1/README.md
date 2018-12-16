@@ -92,7 +92,8 @@
    </p>
    <p>They will be displayed the same.</p>
    <hr><br>
-
+   <pre>
+   <code>
    <!--HTML special caracters
     < - &lt;
     > - &gt;
@@ -100,6 +101,8 @@
     ` - &apos;
     & - &amp;
   -->
+  </code>
+  </pre>
   <p>This is a &lt;p&gt;</p>
 
 
