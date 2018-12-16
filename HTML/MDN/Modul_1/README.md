@@ -69,13 +69,15 @@
    
    <pre>
    Adding atributes to an element
-         Lets take the <a> element witch means "anchor"->>Crate HyperLinks
-        <a href=" " title=" " target=" ">
+         Lets take the &lt;a&gt; element witch means "anchor"
+         lt;a href=" " title=" " target=" "&gt;
         *href - specify the web adress what we want to link
         *title - can be used as a tooltip
         *target - specify where is this link open(on a new tab? or self tab?)
    </pre>
+   
    <br><hr>
+   
    <p>Will make next paragraf an HyperLink</p>
    <p>This links goes to <a href="https://mozilla.org/" title="Mozilla FireFox Home Page" target="_blank">MDS</a></p>
    <hr>
