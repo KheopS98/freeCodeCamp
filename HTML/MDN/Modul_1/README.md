@@ -11,7 +11,7 @@
         <tagname>ContentM</tagname> ->> opentag + content + closetag == HTML element-->
 
     <!--Nestings elements
-        <strong> tag is like <em> tag but have a semnatic strong importance
+        <strong> tag is like <em>tag but have a semnatic strong importance
         and fost is bold. -->
         
    <p>My cat is <strong>very</strong> grumpy.</p>
