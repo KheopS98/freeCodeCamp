@@ -5,11 +5,15 @@
 <h4>Paragrafs</h4>
 <p>This is an paragraph.</p>
 <hr><br>   
+
 <em>This Text is empatized italic</em>
-    <hr>
-  Anatomy of HTML elements
-<opentag>Content</closetag>
-        <tagname>ContentM</tagname> ->> opentag + content + closetag == HTML element-->
+<hr><br>
+
+<p>Anatomy of HTML elements</p>
+<p>
+<opentag>Content</closetag> <br>
+<tagname>ContentM</tagname> ->> opentag + content + closetag == HTML element
+</p>
 
    Nestings elements
        <strong> tag is like <em> tag but have a semnatic strong importance
