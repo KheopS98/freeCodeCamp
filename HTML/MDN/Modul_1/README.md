@@ -14,13 +14,13 @@
 <hr><br>
 
 <p>Nestings elements</p>
-<p><strong>tag </strong> is like <em> tag but have a semnatic strong importance and fost is bold. 
+<p>&lt;strong&gt;is like &lt;em&gt; tag but have a semnatic strong importance and font is bold. 
 <p>My cat is <strong>very</strong> grumpy.</p>
    <br>
    <hr>
    
 <h4>Block Elements vs Inline Elements</h4>
-   <!--
+   <pre>
     Block Elements: start a new line , donsen t matter of elements before or after
     Block Elements: can`t be nasted with inline elemnets but can be nasted with other Block-level Elements
     Block Elements Tags: <div> <p> <form>
@@ -30,7 +30,7 @@
     Inline Elements: take only the necessary width
     Inline Elements tags: <span> <img> <em>
     Here is an example:
-   -->
+   </pre>
    <p>Example</p>
    <em>first</em>
    <em>second</em>
