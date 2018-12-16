@@ -18,11 +18,11 @@
 
     <!--Nestings elements
         <strong> tag is like <em> tag but have a semnatic strong importance
-        and fost is bold.
-  -->
-    <p>My cat is <strong>very</strong> grumpy.</p>
-    <br>
-    <hr>
+        and fost is bold. -->
+        
+   <p>My cat is <strong>very</strong> grumpy.</p>
+   <br>
+   <hr>
     <!--Block Elements vs Inline Elements
     Block Elements: start a new line , donsen t matter of elements before or after
     Block Elements: can`t be nasted with inline elemnets but can be nasted with other Block-level Elements
@@ -69,20 +69,20 @@
         *title - can be used as a tooltip
         *target - specify where is this link open(on a new tab? or self tab?)
       -->
-    <p>Will make next paragraf an HyperLink</p>
-    <p>This links goes to <a href="https://mozilla.org/" title="Mozilla FireFox Home Page" target="_blank">MDS</a></p>
-    <hr>
-    <br>
+   <p>Will make next paragraf an HyperLink</p>
+   <p>This links goes to <a href="https://mozilla.org/" title="Mozilla FireFox Home Page" target="_blank">MDS</a></p>
+   <hr>
+   <br>
 
     <!--Boolean Atributes
       Are atributes with no value
       They  are perfecty allowed
       Take the disable atribute
     -->
-    <input type="text" name="text" value="" disabled="disabled">
-    <p>and</p>
-    <input type="text" name="text" value="" disabled>
-    <input type="text" name="" value="">
+   <input type="text" name="text" value="" disabled="disabled">
+   <p>and</p>
+   <input type="text" name="text" value="" disabled>
+   <input type="text" name="" value="">
 
     <!--HTML White Space
       - HTML dosen`t care about white space
