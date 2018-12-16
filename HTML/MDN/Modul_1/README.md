@@ -1,17 +1,18 @@
 <h1>Getting started with HTML</h1>
 <br>
 <h3>Modul_1 Notes</h3>
+<p>This is a &lt;p&gt;</p>
 
-    <!--Paragrafs-->
-    <p>This is a paragraf</p>
+   <h4>Paragrafs</h4>
+    <p>&lt;p&gt; This is a paragra.&lt;/p&gt;</p>
     <em>This Text is empatized italic</em>
     <hr>
-    <!--Anatomy of HTML elements
-        <opentag>Content</closetag>
+  Anatomy of HTML elements
+<opentag>Content</closetag>
         <tagname>ContentM</tagname> ->> opentag + content + closetag == HTML element-->
 
-    <!--Nestings elements
-        <strong> tag is like <em>tag but have a semnatic strong importance
+   Nestings elements
+       <strong> tag is like <em> tag but have a semnatic strong importance
         and fost is bold. -->
         
    <p>My cat is <strong>very</strong> grumpy.</p>
