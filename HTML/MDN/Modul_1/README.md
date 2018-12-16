@@ -77,18 +77,20 @@
         *target - specify where is this link open(on a new tab? or self tab?)
    </pre>
    
-   <br><hr>
-   
+     
    <p>Will make next paragraf an HyperLink</p>
    <p>This links goes to <a href="https://mozilla.org/" title="Mozilla FireFox Home Page" target="_blank">MDS</a></p>
    <hr>
    <br>
-
-    <!--Boolean Atributes
+   
+   <pre>
+   <Boolean Atributes
       Are atributes with no value
       They  are perfecty allowed
       Take the disable atribute
-    -->
+   
+   </pre> 
+    
    <input type="text" name="text" value="" disabled="disabled">
    <p>and</p>
    <input type="text" name="text" value="" disabled>
@@ -105,16 +107,14 @@
    <p>They will be displayed the same.</p>
    <hr><br>
    
-   
-   <!--HTML special caracters
+   <pre>
+   HTML special caracters
     < - &lt;
     > - &gt;
     " - &quot;
     ` - &apos;
     & - &amp;
-  
-  
- 
-  <p>This is a &lt;p&gt;</p>
+  </pre>
+   <p>This is a &lt;p&gt;</p>
 
 
