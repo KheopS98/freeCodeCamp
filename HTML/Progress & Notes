@@ -67,7 +67,12 @@
   **<input type="text"> --> <input> self closed
   **Placeholder for <input>
     *Placeholder text is what is displayed in your input element before your user has inputted anything.
-    *<input type="text" placeholder="placeholder text"> - placeholder will desapier when user will tipe something.
+    *<input type="text" Connect <label> and <input> with for and id atribute
+  <label for="username">Username: </label>
+  <input id="username" type="text" name="" value="">
+
+  <label for="password">Password: </label>
+  <input id="password" type="password" name="" value="">placeholder="placeholder text"> - placeholder will desapier when user will tipe something.
     
 **Crate a form element
   **You can build web forms that actually submit data to a server.
@@ -82,9 +87,38 @@
   **You can require specific form fields so that your user will not be able to submit your form until he or she has filled them out.
   **<input type="text" placeholder="cat photo URL" required>
 
-**
-  
+**Create a set of Radio Buttons
+  **Each of your radio buttons can be nested within its own label
+  **All related radio buttons should have the same name attribute to create a radio button group.
+  **It is considered best practice to set a for attribute on the label element, with a value that matches the value of the id attribute of the input element.
+  **Connect <label> and <input> with for and id atribute
+  <label for="username">Username: </label>
+  <input id="username" type="text" name="" value="">
 
+  <label for="password">Password: </label>
+  <input id="password" type="password" name="" value="">
+  
+**Nest Many Elements within a Single div Element
+  **The div element, also known as a division element, is a general purpose container for other elements.
+  
+** Declare the Doctype of an HTML Document
+  **<!DOCTYPE html> --> for html5
+  **The ! and uppercase DOCTYPE is important, especially for older browsers
+  
+**Define the Head and Body of an HTML Document
+  **Metadata elements, such as link, meta, title, and style, typically go inside the head element.
+  <!DOCTYPE html>
+  <html>
+  <head>
+  <!--meta-data goes here -->
+  </head>
+  
+  <body>
+  <!--page content-->
+  </body>
+ </html>
+ 
+ 
 
 
 
