@@ -1,11 +1,11 @@
 <h1>Getting started with HTML</h1>
 <br>
 <h3>Modul_1 Notes</h3>
-<p>This is a &lt;p&gt;</p>
-
-   <h4>Paragrafs</h4>
-    <p>&lt;p&gt; This is a paragra.&lt;/p&gt;</p>
-    <em>This Text is empatized italic</em>
+<br>
+<h4>Paragrafs</h4>
+<p>This is an paragraph.</p>
+<hr><br>   
+<em>This Text is empatized italic</em>
     <hr>
   Anatomy of HTML elements
 <opentag>Content</closetag>
