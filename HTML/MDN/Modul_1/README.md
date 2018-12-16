@@ -10,10 +10,8 @@
 <hr><br>
 
 <h4>Anatomy of HTML elements</h4>
-<p>
-<opentag>Content</closetag> <br>
-<tagname>ContentM</tagname> ->> opentag + content + closetag == HTML element
-</p>
+<p>opentag + content + closetag == HTML element</p>
+<hr><br>
 
    Nestings elements
        <strong> tag is like <em> tag but have a semnatic strong importance
