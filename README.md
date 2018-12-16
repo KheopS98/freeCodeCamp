@@ -81,4 +81,54 @@ Front-End Path FreeCodeCamp
 <hr><br>
 
 <h4>HTML Forms</h4>
+<h2>Play with inputs</h2>
+    <form action="process.php" method="post">
+      <label for="firstname">First Name </label>
+      <input id="firstname" type="text" placeholder="First Name" required >
+      <br>
+      <label for="lastname">Last Name</label>
+      <input id="lastname"type="text" placeholder="Last Name" required>
+      <br>
+      <label for="email">Email</label>
+      <input id="email" type="email" placeholder="username@example.com" required>
+      <br>
+      <label for="password">Password:</label>
+      <input id="password" type="password" required>
+      <br>
+      <label for="confpassword">Confirm Password:</label>
+      <input id="confpassword" type="password" required>
+      <br>
+      <label for="birth">BirthDay</label><
+      <input id="birth" type="date" required>
+      <br>
+      <label for="age">Age</label>
+      <input id="age"type="number" value="20" required>
+      <br>
+      <label for="color">Chose a color:</label>
+      <input id="color" type="color" name="" value="" required>
+      <br>
+      <label for="cfile" >Chose your file </label>
+      <input id="cfile" type="file" name="" value="" required>
+      <br>
+      <label for="gender">Gender</label>
+      <select class="gender" name="gender">
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="other">Other</option>
+      </select>
+      <br>
+      <input type="checkbox"> <span>By clicking thatyou  are agree with our </span> <a href="Terms.html">Terms and conditions</a>
+      <br>
+      <input type="submit" name="" value="Submit">
+    </form>
+</div>
 
+<!--Connect <label> and <input> with for and id atribute
+  <label for="username">Username: </label>
+  <input id="username" type="text" name="" value="" -->
+
+  <label for="password">Password: </label>
+  <input id="password" type="password" name="" value="">
+<!--Validations for forms
+  is done with  required atribute in input tags
+  <input type="text" name="" value="" required>-->
