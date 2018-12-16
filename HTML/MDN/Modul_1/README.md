@@ -93,15 +93,15 @@
    <p>They will be displayed the same.</p>
    <hr><br>
    
-   <code>
+   
    <!--HTML special caracters
     < - &lt;
     > - &gt;
     " - &quot;
     ` - &apos;
     & - &amp;
-  -->
-  </code>
+  
+  
  
   <p>This is a &lt;p&gt;</p>
 
