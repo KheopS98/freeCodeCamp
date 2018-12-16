@@ -5,11 +5,11 @@
 <h4>Paragrafs</h4>
 <p>This is an paragraph.</p>
 <hr><br>   
-
+<h4>Empatized</h4>
 <em>This Text is empatized italic</em>
 <hr><br>
 
-<p>Anatomy of HTML elements</p>
+<h4>Anatomy of HTML elements</h4>
 <p>
 <opentag>Content</closetag> <br>
 <tagname>ContentM</tagname> ->> opentag + content + closetag == HTML element
