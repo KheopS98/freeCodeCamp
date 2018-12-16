@@ -1,13 +1,7 @@
 <h1>Getting started with HTML</h1>
 <br>
 <h3>Modul_1 Notes</h3>
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>MDN HTML Introduction</title>
-  </head>
-  <body>
+
     <!--Paragrafs-->
     <p>This is a paragraf</p>
     <em>This Text is empatized italic</em>
