@@ -13,14 +13,14 @@
 <p>opentag + content + closetag == HTML element</p>
 <hr><br>
 
-   Nestings elements
-       <strong> tag is like <em> tag but have a semnatic strong importance
-        and fost is bold. -->
-        
-   <p>My cat is <strong>very</strong> grumpy.</p>
+<p>Nestings elements</p>
+<p><strong>tag </strong> is like <em> tag but have a semnatic strong importance and fost is bold. 
+<p>My cat is <strong>very</strong> grumpy.</p>
    <br>
    <hr>
-    <!--Block Elements vs Inline Elements
+   
+<h4>Block Elements vs Inline Elements</h4>
+   <!--
     Block Elements: start a new line , donsen t matter of elements before or after
     Block Elements: can`t be nasted with inline elemnets but can be nasted with other Block-level Elements
     Block Elements Tags: <div> <p> <form>
@@ -31,6 +31,7 @@
     Inline Elements tags: <span> <img> <em>
     Here is an example:
    -->
+   <p>Example</p>
    <em>first</em>
    <em>second</em>
    <em>three</em>
