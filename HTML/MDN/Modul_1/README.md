@@ -23,14 +23,15 @@
    <pre>
     Block Elements: start a new line , donsen t matter of elements before or after
     Block Elements: can`t be nasted with inline elemnets but can be nasted with other Block-level Elements
-    Block Elements Tags: <div> <p> <form>
+    Block Elements Tags: &lt;div&gt; &lt;p&gt; &lt;form&gt;
     Block Elements: take all avasible with
     Inline Elements: dont start on a new line.
     Inline Elements: cant be nasted with Block-level elements.
     Inline Elements: take only the necessary width
-    Inline Elements tags: <span> <img> <em>
+    Inline Elements tags: &lt;span&gt;&lt;img&gt; &lt;em&gt;
     Here is an example:
    </pre>
+   
    <br>
    <p>Example</p>
    <em>first</em>
