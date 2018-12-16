@@ -84,21 +84,20 @@
    <br>
    
    <pre>
-   <Boolean Atributes
+   Boolean Atributes
       Are atributes with no value
       They  are perfecty allowed
       Take the disable atribute
-   
-   </pre> 
+</pre> 
     
    <input type="text" name="text" value="" disabled="disabled">
    <p>and</p>
    <input type="text" name="text" value="" disabled>
    <input type="text" name="" value="">
 
-    <!--HTML White Space
-      - HTML dosen`t care about white space
-    -->
+   <p>HTML White Space -HTML dosen`t care about white space
+    
+   
    <p>Dogs are silly.</p>
    <p>Dogs
       are
