@@ -41,24 +41,24 @@
    <br>
    <hr>
    
+   <p>Lets take an example of who to insert an image in HTML</p>
+    <img src="images/firefox.jpg" alt="MDN logo" width="30%" height="30%">
+    <hr>
+    <br>
+   
    <!--Empty Elements
       *Not all elemnets follow the pattern of <tagname>Content</tagname>
       *Usually empy elements used to insert/embed something in the document
       *Example of <img src="" alt="" width="" height=""> - don`t have an closing tags
       *Empy Elements are also called void Elements.
     -->
-    <p>Lets take an example of who to insert an image in HTML</p>
-    <img src="images/firefox.jpg" alt="MDN logo" width="30%" height="30%">
-    <hr>
-    <br>
 
     <!--HTML Atributes
         Atributes: contain extra information about the element.
         Atributes should have:
           -A space between it and the element.
           -The atribute name followed by an equal sign.
-          -An atribute value between " ".
-      -->
+          -An atribute value between " "  -->
 
     <!--Adding atributes to an element
         Lets take the <a> element witch means "anchor"->>Crate HyperLinks
