@@ -70,6 +70,16 @@ a) .green-border{
 **Basic CSS: Adjust the Padding of an Element
   **Three important properties control the space that surrounds each HTML element: padding, margin, and border. 
   **padding - space between text and border
+  **padding: 20px;
+  
+**Basic CSS: Adjust the Margin of an Element
+  **An element's margin controls the amount of space between an element's border and surrounding elements.
+  **margin: 20px;
+
+**Basic CSS: Add a Negative Margin to an Element
+  **If you set an element's margin to a negative value, the element will grow larger.
+  **margin:-15px; grow larger - ca un dreapel
+  
   
   
   
