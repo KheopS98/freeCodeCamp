@@ -14,8 +14,8 @@
 <h4>Youtube Resources</h4>
 <ul>
   <li><a href="https://youtu.be/9Pzj7Aj25lw" target="_blank" title="Joey Blue
-    SQL CrashCourse">Joey Blue SQL Crashcourse</a><span>Microsoft SQL Server</span></li>
-  <li><a></a></li>
+    SQL CrashCourse">Joey Blue SQL Crash Course</a><span> Microsoft SQL Server</span></li>
+  <li><a href="https://youtu.be/nWeW3sCmD2k" target="_blank" title="Traversy Crash Course">Traversy Media Crash Course</a><span> XAMPP, phpMyAdmin</span></li>
   <li><a></a></li>
   <li><a></a></li>
 </ul>
