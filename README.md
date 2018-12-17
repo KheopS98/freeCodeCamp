@@ -46,7 +46,7 @@ Front-End Path FreeCodeCamp
   <hr>
   <br>
   
-<h4>2.HTML Lists</h4>
+<h4>2.HTML Tables</h4>
  <h1>First Gen Pokemon Chart</h1>
     <table border="1">
       <thead>
