@@ -138,6 +138,19 @@ a) .green-border{
 **Basic CSS: Use Abbreviated Hex Code
   ** #FF0000 can be short #F00 (FF 00 00 R G B)
   ** #F0F is #FF00FF
+  
+  
+**Basic CSS: Create a custom CSS Variable
+  **To create a CSS Variable, you just need to give it a name with two dashes in front of it and assign it a value like this:
+  ** --penguin-skin: gray;
+  
+**Basic CSS: Use a custom CSS Variable
+  **After you create your variable, you can assign its value to other CSS properties by referencing the name you gave it.
+  **background-color: var(--penguin-skin)
+  
+**Basic CSS: Attach a Fallback value to a CSS Variable
+  **Rather, it is used so that the browser has a color to display if it cannot find your variable.
+  ** background: var(--penguin-skin, black);
 
   
   
