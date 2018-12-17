@@ -67,6 +67,10 @@ a) .green-border{
   **A id can be accesed in CSS with #uniq {color:red; }
   **Sytax: <element id="uniq">Content</element>
   
+**Basic CSS: Adjust the Padding of an Element
+  **Three important properties control the space that surrounds each HTML element: padding, margin, and border. 
+  **padding - space between text and border
+  
   
   
   
