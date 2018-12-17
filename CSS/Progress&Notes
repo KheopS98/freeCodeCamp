@@ -1,1 +1,84 @@
+*****CSS Notes From Every Chapter****
 
+**Basic CSS: Change the Color of Text**
+  **The property responsible for an element's text is --> color: value;
+  
+**Basic CSS: Use a CSS Class to Style an Element
+  **Syntax: <element class="special">Content</element>
+  **A class can be accesed in CSS with .special {color:red; }
+  **Classes allow you to use the same CSS styles on multiple HTML elements.
+  
+**Basic CSS: Change the Font Size of an Element
+  **Font size is controlled by (font-size) property.
+  **Syntax: p{font-size:16px; }
+  
+**Basic CSS: Set the Font Family of an Element
+  **You can set which font an element should use, by using (font-family).
+  **Syntax: p{font-family:monospaces or sans-serif or Verdana or Courier etc. }
+  
+**Basic CSS: Import a Google Font
+  ** Google Fonts is a free library of web fonts that you can use in your CSS by referencing the font's URL.
+  **https://fonts.google.com/
+  **Impornt Font: <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  **Use it in CSS: p {font-family: "Lobster"; }
+  
+**Basic CSS: Specify How Fonts Should Degrade
+  **When one font isn't available, you can tell the browser to "degrade" to another font.
+  **p{font-family: 'Lobster', monospace,sans-serif; } 
+  **If Lobster is not avasible, monospace will be used, if monospace is not avasible ,sans-serif will be used etc.
+  
+**Basic CSS: Size Your Images
+  **CSS has a property called width that controls an element's width. smaller-image{ width:100px;}
+  
+**Basic CSS: Add Borders Around Your Elements
+  **Color: border-color: red;
+  **Width: border-width: 5px;
+  **Style: border-style: solid;
+  **Multiple classes to an element using its class attribute, by separating each class name with a space.
+    For example:
+  <img class="small-img green-border">
+  .small-img{
+   width:100px;
+   }
+ 
+a) .green-border{
+  boder-width:10px;
+  border-style: solid
+  border-color:green;
+}
+
+**Basic CSS: Add Rounded Corners 
+  **We can round out those corners with a CSS property called (border-radius).
+  **Syntax: a) {boder-radius:10px; }
+  
+**Basic CSS: Make Circular Images with a border-radius
+  **Specify the border-radius with  %
+  **Syntax: a) {border-radius: 50%;}
+  
+**Basic CSS: Give a Background Color to a div Element
+  **You can set an element's background color with the (background-color)
+  **<div class="silver-background"> ...... </div>
+    .silver-background{background-color: silver; }
+    
+**Basic CSS: Set the id of an Element
+  **There are several benefits to using id attributes: You can use an id to style a single element and later 
+  you'll learn that you can use them to select and modify specific elements with JavaScript.
+  **ID's should be uniq
+  **A id can be accesed in CSS with #uniq {color:red; }
+  **Sytax: <element id="uniq">Content</element>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
