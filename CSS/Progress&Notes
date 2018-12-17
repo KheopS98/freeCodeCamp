@@ -3,18 +3,22 @@
 **Basic CSS: Change the Color of Text**
   **The property responsible for an element's text is --> color: value;
   
+  
 **Basic CSS: Use a CSS Class to Style an Element
   **Syntax: <element class="special">Content</element>
   **A class can be accesed in CSS with .special {color:red; }
   **Classes allow you to use the same CSS styles on multiple HTML elements.
   
+  
 **Basic CSS: Change the Font Size of an Element
   **Font size is controlled by (font-size) property.
   **Syntax: p{font-size:16px; }
   
+  
 **Basic CSS: Set the Font Family of an Element
   **You can set which font an element should use, by using (font-family).
   **Syntax: p{font-family:monospaces or sans-serif or Verdana or Courier etc. }
+  
   
 **Basic CSS: Import a Google Font
   ** Google Fonts is a free library of web fonts that you can use in your CSS by referencing the font's URL.
@@ -27,8 +31,10 @@
   **p{font-family: 'Lobster', monospace,sans-serif; } 
   **If Lobster is not avasible, monospace will be used, if monospace is not avasible ,sans-serif will be used etc.
   
+  
 **Basic CSS: Size Your Images
   **CSS has a property called width that controls an element's width. smaller-image{ width:100px;}
+  
   
 **Basic CSS: Add Borders Around Your Elements
   **Color: border-color: red;
@@ -79,6 +85,62 @@ a) .green-border{
 **Basic CSS: Add a Negative Margin to an Element
   **If you set an element's margin to a negative value, the element will grow larger.
   **margin:-15px; grow larger - ca un dreapel
+
+**Basic CSS: Add Different Padding to Each Side of an Element
+  **padding-top / padding-bottom / padding-left/ padding-right
+  **same with margins
+  
+**Basic CSS: Use Clockwise Notation to Specify the Padding of an Element
+  **padding: 10px 15px 10px 15px; -ceas -> sus dreapta jos stanga
+  **margin: 10px 15px 10px 15px;
+  
+**Basic CSS: Use Attribute Selectors to Style Elements
+  **There are other CSS Selectors you can use to select custom groups of elements to style.
+  **[type='radio or checkbox'] {
+      margin: 20px 0px 20px 0px;
+    }
+    
+**Basic CSS: Understand Absolute versus Relative Units
+  **em - Relative to the font-size of the element (2em means 2 times the size of the current font).
+  
+  
+  
+**Basic CSS: Style the HTML Body Element
+  **Every HTML page has a body element.
+  **Remember, you can style your body element just like any other HTML element, 
+  and all your other elements will inherit your body element's styles.
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+    color: blue;
+  }
+  #orange-text{
+    color:orange;
+  }
+</style>
+<h1 class="pink-text blue-text" id="orange-text" style="color:white;">Hello World!</h1>
+  **body can be override by another class1
+  **class1 can be override by another class2
+  **ID can override class2
+  **We just proved that browsers read CSS from top to bottom. 
+  **Override class with inline CSS
+  **So when you absolutely need to be sure that an element has specific CSS, you can use !important
+    **color: red !important;
+    
+    
+**Basic CSS: Use Abbreviated Hex Code
+  ** #FF0000 can be short #F00 (FF 00 00 R G B)
+  ** #F0F is #FF00FF
+
+  
+  
   
   
   
