@@ -19,3 +19,5 @@
 </ul>
 
 <p>For other <strong>resources</strong> check this <a href="https://www.reddit.com/r/learnprogramming/comments/7bm47x/resources_to_learn_sql/" target="_blank" title="Reddit /learnprogramming topic">reddit</a> topic.</p>
+
+[embed][/embed]
