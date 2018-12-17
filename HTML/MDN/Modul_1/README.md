@@ -55,9 +55,7 @@
       *Example of <img src="" alt="" width="" height=""> - don`t have an closing tags
       *Empy Elements are also called void Elements.
     </pre>
-    <br><hr>
-    
-    
+ 
    <pre>
    HTML Atributes contain extra information about the element.
         Atributes should have:
