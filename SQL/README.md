@@ -18,6 +18,9 @@
   <li><a href="https://youtu.be/nWeW3sCmD2k" target="_blank" title="Traversy Crash Course">Traversy Media Crash Course</a><span> XAMPP, phpMyAdmin</span></li>
 </ul>
 
+<h4>Simple Queries Practice</h4>
+<a href="https://drive.google.com/drive/u/0/folders/1q0w3AS0PffvEBSVeNfB9xwk_E-q1kXvN" target="_blank" title="Some Basic SQL Queries">SQL Queries</a>
+
 <p>For other <strong>resources</strong> check this <a href="https://www.reddit.com/r/learnprogramming/comments/7bm47x/resources_to_learn_sql/" target="_blank" title="Reddit /learnprogramming topic">reddit</a> topic.</p>
 
 
