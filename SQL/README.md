@@ -16,8 +16,6 @@
   <li><a href="https://youtu.be/9Pzj7Aj25lw" target="_blank" title="Joey Blue
     SQL CrashCourse">Joey Blue SQL Crash Course</a><span> Microsoft SQL Server</span></li>
   <li><a href="https://youtu.be/nWeW3sCmD2k" target="_blank" title="Traversy Crash Course">Traversy Media Crash Course</a><span> XAMPP, phpMyAdmin</span></li>
-  <li><a></a></li>
-  <li><a></a></li>
 </ul>
 
 <p>For other <strong>resources</strong> check this <a href="https://www.reddit.com/r/learnprogramming/comments/7bm47x/resources_to_learn_sql/" target="_blank" title="Reddit /learnprogramming topic">reddit</a> topic.</p>
