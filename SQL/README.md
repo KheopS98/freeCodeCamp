@@ -4,7 +4,7 @@
 <h2>Resources to Learn</h2>
 <ul>
   <li><a href="https://sqlzoo.net/" target="_blank" title="SQLZOO">SQLZOO</a></li>
-  <li> </li>
+  <li><a href="https://sqlbolt.com/" target="_blank" title="SQLBolt">SQLBolt</a></li>
   <li> </li>
   <li> </li>
   <li> </li>
