@@ -20,10 +20,9 @@
 
 <p>For other <strong>resources</strong> check this <a href="https://www.reddit.com/r/learnprogramming/comments/7bm47x/resources_to_learn_sql/" target="_blank" title="Reddit /learnprogramming topic">reddit</a> topic.</p>
 
-https://github.com/KheopS98/freeCodeCamp/blob/master/SQL/pg1.pdf
 
 <object data="https://github.com/KheopS98/freeCodeCamp/blob/master/SQL/pg1.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/KheopS98/freeCodeCamp/blob/master/SQL/pg1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/KheopS98/freeCodeCamp/blob/master/SQL/pg1.pdf">Download PDF</a>.</p>
     </embed>
 </object>
