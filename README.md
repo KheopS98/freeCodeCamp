@@ -177,7 +177,7 @@ Front-End Path FreeCodeCamp
 
 <p><strong>TO DO</strong>:</p>
 <ul>
-  <li><b>W3Schools<b> HTML/li>
+  <li><b>W3Schools<b> HTML</li>
   <li><b>W3Schools<b> CSS</li>
   <li><b>WebBoot/W3Schools<b> Boostrap 4</li>
   <li><b>freeCodeCamp</b> JS</li>
